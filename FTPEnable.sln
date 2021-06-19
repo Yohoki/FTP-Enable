@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FTPEnable", "FTPEnable\FTPEnable.csproj", "{815392C4-0BAE-44E4-B3DF-0984D41F0A2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{815392C4-0BAE-44E4-B3DF-0984D41F0A2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{815392C4-0BAE-44E4-B3DF-0984D41F0A2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{815392C4-0BAE-44E4-B3DF-0984D41F0A2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{815392C4-0BAE-44E4-B3DF-0984D41F0A2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B426C37-F085-4CF0-AE91-F573F0DC21AF}
+	EndGlobalSection
+EndGlobal
